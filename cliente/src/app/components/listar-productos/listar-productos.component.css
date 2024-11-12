@@ -1,0 +1,10 @@
+.fas:first-of-type{
+    color: rgb(19, 101, 255);
+    margin-right: 7px;
+}
+.fas{
+    cursor:pointer;
+}
+.fas:nth-of-type(2){
+    color: red;
+}
